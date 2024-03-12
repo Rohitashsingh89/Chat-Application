@@ -76,7 +76,7 @@ This is a Real-Time Chat Application built using the MERN (MongoDB, Express.js, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
 
