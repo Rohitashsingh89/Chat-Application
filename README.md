@@ -26,13 +26,13 @@ This is a Real-Time Chat Application built using the MERN (MongoDB, Express.js, 
 1. Clone the repository:
 
     ```
-    git clone https://github.com/Rohitashsingh89/Real-Time-Chat-Application.git
+    git clone https://github.com/Rohitashsingh89/Chat-Applicatio.git
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd Real-Time-Chat-Application
+    cd Chat-Application
     ```
 
 3. Install dependencies for both the server and client:
@@ -66,6 +66,10 @@ This is a Real-Time Chat Application built using the MERN (MongoDB, Express.js, 
     ```
 
 6. Open your browser and navigate to `http://localhost:3000` to view the application.
+
+We greatly appreciate your support! Your contribution helps us maintain this project and ensures its continuous improvement.
+Thank you for supporting open-source software! 🙌
+
 
 ## Usage
 
