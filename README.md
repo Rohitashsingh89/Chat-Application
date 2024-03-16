@@ -2,6 +2,12 @@
 
 This is a Real-Time Chat Application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to create accounts, join chat rooms, and communicate with other users in real-time.
 
+[![Alt text](https://img.youtube.com/vi/Lm2J_zfkNyA/0.jpg)](https://www.youtube.com/watch?v=Lm2J_zfkNyA)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Lm2J_zfkNyA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and log out securely.
